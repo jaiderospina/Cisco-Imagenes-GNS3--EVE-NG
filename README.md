@@ -1337,39 +1337,7 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 
 
-## Need Help
-
-I've provided images from various vendors for practice. If you need anything else or have specific requests, please feel free to let me know here. I'm here to help!
-Please drop the message here if you have any queries!
-
-[Click Here](https://t.me/resourcehub1) 
-
-<div align="center">
-<p> Happy Networking!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
 
 
-<br>
-
-## Creator [🔝](Images-for-GNS3-and-EVE-NG)
-
-(https://github.com/hegdepavankumar). Created by:-
-
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
-
-
-<br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br>
-
- <!-- Support Me --> 
-
- 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
