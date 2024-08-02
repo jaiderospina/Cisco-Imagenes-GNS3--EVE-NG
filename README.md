@@ -1,29 +1,5 @@
-# Images-for-GNS3-and-EVE-NG 
-
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG.svg?cache=remove)
-
-<br>
-
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/4de78ad2-7338-47ad-a203-6480f0a7db02)](https://t.me/resourcehub1)
-
-<br>
-
-# SUPPORT ME -- 🚩💲🙏
-
-### 🌟 Love my "Cisco Images for GNS3 and EVE-NG" repo? It's your one-stop solution for all vendor images, helping newbies and pros alike to simulate labs and upgrade skills hands-on. Your support means the world to me! If you'd like to show appreciation, consider buying me a coffee ☕️ or sending your best wishes. Thanks for being awesome! 
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hegdepavankumar&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
-
+# Imagenes GNS3  y EVE-NG 
 ---
-
-# Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
-
-<br>
-
-
 
 
 ###  Important: Please visit the provided links for valuable information.
@@ -32,7 +8,6 @@
 
 | Name | Link |
 |----------|----------|
-| Join Telegram Group   | [click here](https://t.me/resourcehub1)   |
 | All Images Username/Password   | [click here](https://shorturl.at/dpAS5)   |
 | EVE-NG Qemu Images Passwords   | [click here](https://shorturl.at/oHS12)   |
 | QEMU-Image-Namings             | [click here](https://shorturl.at/koqIR)   | 
